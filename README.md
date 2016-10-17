@@ -22,3 +22,7 @@ Here is an example AutoHotkey script which binds Alt+1 through Alt+9 to switch d
 
 ## Installation
 Just grab the latest release [here](https://github.com/joshglendenning/win10-desktop-switcher/releases/latest).
+
+## Help! DesktopSwitcher.exe has stopped working!
+Make sure you've created the desktop you're trying to switch to in the `Win+Tab` screen first.
+If DesktopSwitcher.exe is still not working, [open an issue](https://github.com/joshglendenning/win10-desktop-switcher/issues/new) and tell me to update the GUIDs.
